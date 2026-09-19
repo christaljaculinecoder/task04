@@ -23,9 +23,8 @@ This JavaScript program calculates the student's final marks by adding bonus mar
 | 50–69 | C |
 | Below 50 | F |
 
-## Input
 
-```javascript
+#```javascript input
 let marks = 39;
 let bonus = 10;
 
